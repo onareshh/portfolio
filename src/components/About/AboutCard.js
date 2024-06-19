@@ -18,6 +18,7 @@ function AboutCard() {
             <br />
             Keen on contributing to full stack development effectively.
             <br />
+            
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
